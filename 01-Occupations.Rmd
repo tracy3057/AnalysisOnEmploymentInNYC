@@ -1,0 +1,12 @@
+# Analysis on Different Occupations
+There are many different kinds of occupations in New York City. They have their own characteristics in terms of race composition, age composition, geographical distribution, and changing trends over time. In this chapter, we will analyze in detail the different characteristics of various occupations in New York City from these perspectives. We will also study on whether different occupations have relations with others.
+
+## Overview of Population Distribution by Occupations
+
+## Changing trends by Years
+
+## Distinctions between Genders
+
+## Differences in Geographical Distributions
+
+## Differences in Race Composition
